@@ -23,7 +23,8 @@ apt = [
     'gnome-tweak-tool',
     'vlc',
     'gimp',
-    'wireshark'
+    'wireshark',
+    'doublecmd-gtk',
     ]
 for index, value in enumerate(apt):
     os.system('clear')
